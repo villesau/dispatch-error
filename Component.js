@@ -42,10 +42,10 @@ class RadioPanelGroup extends React.PureComponent<{
   }
 }
 
-const Component2 = ({  }: {}) => (
+const Component = ({}: {}) => (
   <RadioPanelGroup>
     <Show prop="prop" />
   </RadioPanelGroup>
 );
 
-export default Component2;
+export default Component;
