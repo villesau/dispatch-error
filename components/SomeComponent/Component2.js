@@ -46,13 +46,7 @@ class RadioPanelGroup extends React.PureComponent<{
   children: React.ChildrenArray<React.Element<typeof RadioPanel>>
 }> {
   render() {
-    const { children } = this.props;
-
-    return React.Children.map(children, child =>
-        React.cloneElement(child, {
-          active: true
-        })
-      )
+    return null
   }
 }
 
