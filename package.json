@@ -1,0 +1,14 @@
+{
+  "name": "redux-connect-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "flow-bin": "^0.96.0",
+    "flow-typed": "^2.5.1",
+    "prettier": "^1.16.4",
+    "react": "^16.8.6",
+    "react-redux": "^6.0.1",
+    "redux": "3.6.0"
+  }
+}
